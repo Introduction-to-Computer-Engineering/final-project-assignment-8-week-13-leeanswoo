@@ -1,6 +1,10 @@
 # **Visualize simple continuous signals
 2) 
-  i) Configuration of function signal generatior to out [Here](https://imgur.com/a/YBvrhUo)
+  a) Configuration of function signal generator to out [Here](https://imgur.com/a/UIp3gI7)
+  
+  b) Rigol Function Generator video can be found [Here](https://imgur.com/a/YBvrhUo)
+  
+  c) Emitting PWM video can be found [Here](https://imgur.com/a/ywecla7)
 
 
 
