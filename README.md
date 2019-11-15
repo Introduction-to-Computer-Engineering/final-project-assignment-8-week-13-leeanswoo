@@ -1,4 +1,4 @@
-# **Visualize simple continuous signals
+# **Visualize simple continuous signals**
 2) 
   a) Configuration of function signal generator to out [Here](https://imgur.com/a/UIp3gI7)
   
