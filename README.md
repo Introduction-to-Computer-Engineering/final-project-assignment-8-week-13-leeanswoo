@@ -1,4 +1,4 @@
-# **Visualize simple continuous signals**
+## **Visualize simple continuous signals**
 2) 
   a) Configuration of function signal generator to out [Here](https://imgur.com/a/UIp3gI7)
   
@@ -8,7 +8,7 @@
 
 
 
-# **I<sup>2</sup>C Warmup:**
+## **I<sup>2</sup>C Warmup:**
 3) 
   a. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
     - One of the disadvantages of the two serial communication channels is in its name itself. It can communicate with two devies and onyl those two devices. There is also no clock data, so the devices will have to plan ahead of time the data rate that will be exchanged. 
@@ -25,4 +25,6 @@
     - After the address has been sent, the data will be sent and placed on the SDA line and read or write data to the master or slave. 
     
   e. What is the most appropriate trigger for capturing an I2C frame on the oscilloscope?
+  
+  ## **First Steps with I<sup>2</sup>C**
   
