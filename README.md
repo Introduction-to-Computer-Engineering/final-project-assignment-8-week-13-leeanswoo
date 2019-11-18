@@ -1,5 +1,5 @@
-## **Visualize simple continuous signals**
-2) 
+## **2) Visualize simple continuous signals**
+
   a) Configuration of function signal generator to out [Here](https://imgur.com/a/UIp3gI7)
   
   b) Rigol Function Generator video can be found [Here](https://imgur.com/a/YBvrhUo)
@@ -8,8 +8,8 @@
 
 
 
-## **I<sup>2</sup>C Warmup:**
-3) 
+## **3) I<sup>2</sup>C Warmup:**
+ 
   a. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
     - One of the disadvantages of the two serial communication channels is in its name itself. It can communicate with two devies and onyl those two devices. There is also no clock data, so the devices will have to plan ahead of time the data rate that will be exchanged. 
     
@@ -26,5 +26,16 @@
     
   e. What is the most appropriate trigger for capturing an I2C frame on the oscilloscope?
   
-  ## **First Steps with I<sup>2</sup>C**
+  ## **4) First Steps with I<sup>2</sup>C**
+  
+  a.  What frame did you capture?
+    - We captured the address frame. 
+  
+  b. What does the I2C write function do when there is nothing connected?
+    - The I2C will try to complete the function but when the corresponding address or device is not found nothing will happen. 
+    
+  c. Is there a difference in what you capture if you write a number to one of the internal device addresses?
+     - No there was no difference when writing to another internal device. 
+     
+  
   
