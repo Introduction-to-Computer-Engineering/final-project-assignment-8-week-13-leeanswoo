@@ -44,5 +44,23 @@
      
      - No there was no difference when writing to another internal device. 
      
+  # ii) 
+   
+   a. Try all three addresses: 
+   
+   b. Try signed and unsigned type integers: 
+   
+      - Shows I<sup>2</sup>C reading signed integers: [here](https://imgur.com/gallery/jACnoeq)
+      - Shows I<sup>2</sup>C reading unsigned integers: [here](https://imgur.com/gallery/0gBqtHB)
+      
+   c. What values do you read? 
+   
+      - Values we recieved when reading from the accelerometer: [Video here](https://imgur.com/gallery/NHZxBIj)
+      - Values we recieved when reading fromt he magnetometer: [Video here](https://imgur.com/gallery/STNIS40) 
+      
+   d. Can you get different values by moving the micro:bit around.
+    
+      - Yes we got different values when physically moving the microbit reacting from the accelerometer readings. 
+     
   
   
