@@ -56,7 +56,8 @@
    c. What values do you read? 
    
    -Values we recieved when reading from the accelerometer: [Video here](https://imgur.com/gallery/NHZxBIj)
-   -Values we recieved when reading fromt he magnetometer: [Video here](https://imgur.com/gallery/STNIS40) 
+   
+   -Values we recieved when reading from the magnetometer: [Video here](https://imgur.com/gallery/STNIS40) 
       
    d. Can you get different values by moving the micro:bit around.
     
