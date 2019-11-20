@@ -17,6 +17,7 @@
   b. I2C is a two-wire serial communication channel. What are the two wires, SDA and SCL?
     
    -The SDA wire is to transmit the data signal. 
+   
    -The SLA is used for the clock signal 
     
   c. What distinguishes the master and the slaves?
