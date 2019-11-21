@@ -1,4 +1,4 @@
-# **Week 13 - Oscilloscopes and serial protocols
+# **Week 13 - Oscilloscopes and serial protocols**
 
 ## **2) Visualize simple continuous signals**
 
