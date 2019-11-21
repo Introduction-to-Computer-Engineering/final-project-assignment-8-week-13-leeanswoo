@@ -64,5 +64,19 @@
     
    -Yes we got different values when physically moving the microbit reacting from the accelerometer readings. 
      
+  Files: 
   
+  [ArbitraryAddress.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/ArbitraryAddress.js)
+  
+  [I2CRead.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/I2CRead.js)
+  
+  [I2CWrite.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/I2CWrite.js)
+  
+  [InternalAddress.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/InternalAddress.js)
+  
+  [PWM.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/PWM.js)
+  
+  [Accelerometer.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/accelerometer.js)
+  
+  [unsigned.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-leeanswoo/blob/master/unsigned.js)
   
