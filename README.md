@@ -5,6 +5,8 @@
   b) Rigol Function Generator video can be found [Here](https://imgur.com/a/YBvrhUo)
   
   c) Emitting PWM video can be found [Here](https://imgur.com/a/ywecla7)
+  
+  d) Duty cycle changing in incraments of 5% can be found [Here](https://imgur.com/a/xhgJ3oz)
 
 
 
