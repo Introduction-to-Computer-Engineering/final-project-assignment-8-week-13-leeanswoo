@@ -1,3 +1,5 @@
+# **Week 13 - Oscilloscopes and serial protocols
+
 ## **2) Visualize simple continuous signals**
 
   a) Configuration of function signal generator to out [Here](https://imgur.com/a/UIp3gI7)
@@ -6,7 +8,7 @@
   
   c) Emitting PWM video can be found [Here](https://imgur.com/a/ywecla7)
   
-  d) Duty cycle changing in increments of 5% can be found [Here](https://imgur.com/a/xhgJ3oz)
+  d) Loop that varies the duty cycle between 5% and 95% can be found: [Here](https://imgur.com/a/xhgJ3oz)
 
 
 
